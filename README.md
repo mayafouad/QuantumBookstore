@@ -11,7 +11,7 @@
   - **EBook**: Buyable, delivered via email
   - **DemoBook**: Not for sale, no delivery
 
-- ✅ Add books to inventory with
+- ✅ Add books to inventory
 - ✅ Remove outdated books (based on year)
 - ✅ Buy books by ISBN, quantity, email, and address
   - Updates inventory
