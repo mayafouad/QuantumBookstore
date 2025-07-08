@@ -9,15 +9,15 @@ public class Main {
         InventoryService inventory = new InventoryService();
 
         // Paper book with buyable strategy & shipping delivery
-        Book paper = new Book("111", "Clean Code", 2008, 100,
+        PaperBook paper = new PaperBook("111", "Clean Code", 2008, 100, 10,
                 new Buyable(10, 100),
                 new ShippingDelivery());
         // Ebook with buyable strategy & email delivery
-        Book ebook = new Book("222", "Effective Java", 2018, 150,
+        EBook ebook = new EBook("222", "Effective Java", 2018, 150, "PDF",
                 new EBuy(150),
                 new EmailDelivery());
         // Demo book with not buyable strategy & no delivery
-        Book demo = new Book("333", "AI Research Preview", 2020, 200,
+        DemoBook demo = new DemoBook("333", "AI Research Preview", 2020, 200,
                 new NotBuyable(),
                 new NoDelivery());
 
