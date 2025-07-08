@@ -53,3 +53,55 @@ public class Main {
         }
     }
 }
+
+
+/*
+Clean Code has been added.
+Effective Java has been added.
+AI Research Preview has been added.
+-----------------------------------------------------
+Shipping to a@example.com at Cairo
+Book: Clean Code
+Quantity: 2
+Delivery cost: 10.0
+Quantity: 2
+Delivery cost: 10.0
+Price per book: 100.0
+Total cost: 210.0
+Order processed successfully.
+-----------------------------------------------------
+Unable to process order.
+-----------------------------------------------------
+Quantity: 2
+Delivery cost: 10.0
+Price per book: 100.0
+Total cost: 210.0
+Quantity: 2
+Delivery cost: 10.0
+Price per book: 100.0
+Delivery cost: 10.0
+Price per book: 100.0
+Total cost: 210.0
+Order processed successfully.
+Order processed successfully.
+-----------------------------------------------------
+-----------------------------------------------------
+Unable to process order.
+-----------------------------------------------------
+Sending to b@example.com
+Sending to b@example.com
+Book: Effective Java
+Quantity: 1
+Delivery cost: 0.0
+Price per book: 150.0
+Total cost: 150.0
+Order processed successfully.
+-----------------------------------------------------
+Unable to process order.
+-----------------------------------------------------
+Book not found.
+-----------------------------------------------------
+Outdated books:
+Clean Code is outdated and removed from inventory.
+
+ */
