@@ -28,9 +28,7 @@
 
 ## 📁 Project Structure
 ```plaintext
-src/
 
-│
 ├── Books/
 │ └── Book.java
 │ ├── DemoBook.java
