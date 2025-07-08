@@ -51,3 +51,9 @@
 │ └── ShippingService.java
 │
 └── Main.java
+```
+---
+
+## output
+
+![Screenshot 2025-07-08 204321](https://github.com/user-attachments/assets/a9fe55e4-4beb-4c35-9856-174b8f8dfaee)
